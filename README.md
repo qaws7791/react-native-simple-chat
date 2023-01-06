@@ -8,7 +8,7 @@
   - contexts
   - navigations
   - screens
-  - utils : 이메일 정규표현식, 이미지 url 변환
+  - utils
 
 
 
